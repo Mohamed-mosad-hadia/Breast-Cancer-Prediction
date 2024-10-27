@@ -1,7 +1,3 @@
-Thanks for clarifying! Here’s an updated README template that reflects a non-CNN model:
-
----
-
 # Breast Cancer Prediction
 
 This project focuses on developing a machine learning model for breast cancer classification. The project aims to assist in early detection and diagnosis, providing healthcare professionals with a tool to improve patient outcomes.
@@ -58,9 +54,6 @@ The model achieves the following performance metrics:
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
 
-Let me know if this aligns with your project or if you'd like to add anything specific!
+
