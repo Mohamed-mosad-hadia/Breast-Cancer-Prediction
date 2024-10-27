@@ -55,5 +55,23 @@ The model achieves the following performance metrics:
 Contributions are welcome! Please fork the repository and submit a pull request for review.
 
 
+<div align="center">
+ <a href="https://www.linkedin.com/in/mohamed-mosaad-85840b254" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+ <a href="mailto:muhamed.mosadd@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+   <a href="https://wa.me/201069781595" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank" alt="WhatsApp">
+   </a>
+     </a>
+   <a href="https://www.instagram.com/mmosad22" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="Instagram">
+   </a>
+</div>
+
+
+
 
 
